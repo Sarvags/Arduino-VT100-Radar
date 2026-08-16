@@ -29,7 +29,7 @@ A radar visualization system built using Arduino UNO.
 - VT100
 
 VT100 library:
-https://github.com/YOUR_USERNAME/VT100-Arduino
+https://github.com/Sarvags/VT100-Arduino
 
 
 ## Working Principle
